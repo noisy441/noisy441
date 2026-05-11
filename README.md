@@ -1,120 +1,85 @@
-<!-- Header with emoji and name -->
-<h1 align="center">👋 Привет, я Сергей</h1>
-<h3 align="center">Системный администратор (Middle) • Автоматизатор рутинных задач • Хранитель стабильности</h3>
-
-<div align="center">
-  <img src="https://placehold.co/400x400/2D3748/FFFFFF?text=[Инициал]" alt="Аватар" width="200" height="200" style="border-radius: 50%;">
-</div>
+<h1 align="center">Привет, я Сергей</h1>
+<h3 align="center">IT-аутсорсинг • Системное администрирование • Поддержка инфраструктуры • Информационная безопасность</h3>
 
 <p align="center">
-  Системный администратор с более чем <strong>[10] годами</strong> опыта в построении и поддержке надёжной инфраструктуры. Специализируюсь на автоматизации, мониторинге и безопасности серверных сред.
+  Индивидуальный предприниматель в сфере IT с опытом более 10 лет. 
+  Занимаюсь IT-аутсорсингом и сопровождением инфраструктуры организаций — от небольших офисов с 3 рабочими местами до предприятий с парком в несколько сотен компьютеров.
 </p>
 
-<!-- Badges section -->
 <div align="center">
-   <a href="#">
-    <img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" alt="Ansible">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS">
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Zabbix-CC0000?logo=zabbix&logoColor=white&style=for-the-badge" alt="Zabbix">
-  </a>
+  <img src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" alt="Windows">
+  <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux">
+  <img src="https://img.shields.io/badge/Docker-2CA5E0?logo=docker&logoColor=white&style=for-the-badge" alt="Docker">
+  <img src="https://img.shields.io/badge/Ansible-EE0000?logo=ansible&logoColor=white&style=for-the-badge" alt="Ansible">
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" alt="AWS">
+  <img src="https://img.shields.io/badge/Zabbix-CC0000?logo=zabbix&logoColor=white&style=for-the-badge" alt="Zabbix">
 </div>
 
 ---
 
-## 🛠️ О себе
+## О себе
 
-Я системный администратор с **10 годами** опыта в построении и поддержке высоконадёжной инфраструктуры. Специализируюсь на:
+Я занимаюсь IT-аутсорсингом и сопровождением инфраструктуры для организаций разного масштаба. Основное внимание уделяю стабильности, безопасности и снижению ручной рутины.
 
-- Автоматизации рутинных задач через скрипты и Ansible
-- Развёртывании и мониторинге серверных сред
-- Обеспечении безопасности и отказоустойчивости
-- Оптимизации производительности систем
-- Интеграции локальных и облачных решений
+- Поддержка рабочих станций и пользовательского ПО.
+- Администрирование Windows-инфраструктуры.
+- Сопровождение Linux-систем и серверов.
+- Поддержка локальных сетей предприятий.
+- Обеспечение работоспособности корпоративных сайтов.
+- Контроль информационной безопасности рабочих мест и серверов.
+- Удалённая и выездная техническая поддержка пользователей.
+- Автоматизация рутинных задач и сопровождение IT-сервисов.
 
-> «Инфраструктура должна работать как часы — незаметно и безотказно»
+## Ключевые компетенции
 
-## 💡 Ключевые навыки и технологии (уровень Middle)
+- Windows Server, Windows 10/11, Active Directory, Group Policy.
+- Linux: базовое и прикладное администрирование.
+- Сети: LAN, VPN, DNS, DHCP, маршрутизация, firewall.
+- Виртуализация: Proxmox VE, KVM, VMware ESXi.
+- Контейнеризация: Docker, Docker Compose, Podman.
+- Мониторинг: Zabbix, Prometheus, Grafana.
+- Автоматизация: Bash, Python, Ansible.
+- Облака: AWS, Yandex Cloud.
 
-| Категория | Технологии и инструменты | Практическое применение |
-|---------|----------------------|----------------------|
-| **Операционные системы** | Linux (Ubuntu Server, CentOS/RHEL, Debian), Windows | Администрирование серверов, управление пользователями и правами, работа с командной строкой (bash/PowerShell), обновление и патчинг систем |
-| **Компьютерные сети** | TCP/IP, DNS (Bind), DHCP, VPN (OpenVPN, WireGuard), VLAN, маршрутизация (iptables, nftables) | Настройка сетевой связности, управление сетевыми сервисами, сегментация сети, обеспечение удалённого доступа |
-| **Серверное ПО** | Nginx, Apache, Postfix/Exim, Samba, NFS, FTP (vsftpd), SSH (ключи, настройка) | Развёртывание и настройка веб‑серверов, почтовых и файловых сервисов, организация общего доступа и защищённого подключения |
-| **Базы данных** | MySQL, PostgreSQL (базовая настройка и обслуживание), Redis (кэширование) | Установка, настройка, резервное копирование БД, оптимизация запросов, настройка репликации |
-| **Виртуализация** | VMware ESXi, Proxmox VE, KVM | Создание и управление виртуальными машинами, распределение ресурсов, миграция ВМ, резервное копирование виртуальных сред |
-| **Контейнеризация** | Docker (образы, контейнеры, Docker Compose), Podman | Упаковка приложений в контейнеры, управление контейнерами и образами, оркестрация небольших приложений через Compose |
-| **Автоматизация** | Bash (скрипты для мониторинга и обслуживания), Python (простые утилиты), Ansible (playbooks для настройки серверов) | Автоматизация рутинных задач: бэкапы, мониторинг, развёртывание ПО, управление конфигурациями |
-| **Мониторинг и логирование** | Zabbix (настройка метрик и алертов), Prometheus + Grafana (дашборды), ELK Stack (базовый анализ логов) | Настройка систем мониторинга, сбор и анализ логов, настройка оповещений о проблемах |
-| **Информационная безопасность** | Iptables/nftables, UFW, Fail2Ban, SSL/TLS (Let’s Encrypt), аудит безопасности (Lynis) | Настройка файрволов, защита от брутфорса, шифрование трафика, проведение базовых аудитов безопасности |
-| **Контроль версий** | Git (ветки, коммиты, слияния), GitHub/GitLab (работа с репозиториями, pull requests) | Версионирование конфигураций и скриптов, совместная работа над проектами, документирование изменений |
-| **Облачные платформы** | AWS (EC2, S3, IAM, VPC), Yandex Cloud (Compute, Object Storage), базовые сервисы Azure | Развёртывание виртуальных машин, настройка облачных сетей, управление хранилищами, интеграция с локальными системами |
-| **Резервное копирование** | rsync (инкрементальные копии), Bacula (базовая настройка), Veeam (восстановление) | Настройка регулярного бэкапа критически важных данных, проверка целостности копий, тестирование восстановления |
+## Инструменты безопасности
 
-## 🔥 Текущие проекты
+- Kaspersky Endpoint Security.
+- Kaspersky Small Business.
+- Dr.Web.
+- VipNet.
+- Континент АП.
+- Secret Net Studio.
 
+## Основные направления работы
 
-### 🔧 Автоматизация бэкапов
-* Скрипт на Bash для инкрементальных копий данных с проверкой целостности
-* Интеграция с облачным хранилищем AWS S3
-* Уведомления в Telegram при ошибках через webhook
+### IT-аутсорсинг
+Сопровождаю инфраструктуру организаций от небольших офисов до средних предприятий. Закрываю задачи по рабочим местам, сетям, серверам и пользовательской поддержке.
 
-### 🌐 Миграция в облако
-* Перенос сервисов с физических серверов в Yandex Cloud
-* Настройка VPC, Security Groups, Load Balancers
-* Автоматизация через Ansible playbooks
+### Поддержка и администрирование
+Обслуживаю Windows- и Linux-системы, решаю инциденты, контролирую стабильность, настраиваю сервисы и поддерживаю доступность IT-инфраструктуры.
 
-### 📊 Система мониторинга
-* Развёртывание Prometheus + Grafana для всей инфраструктуры
-* Настройка алертов для критических метрик (CPU, RAM, диск, сеть)
-* Визуализация ключевых показателей в дашбордах
+### Безопасность
+Использую антивирусные и криптографические решения для защиты рабочих станций, серверов и каналов связи, поддерживаю базовый уровень защиты и контроля.
 
-## 📚 Что изучаю сейчас
+### Веб-инфраструктура
+Обеспечиваю работоспособность сайтов и связанных сервисов, включая серверную часть, доступность и базовую диагностику проблем.
 
-* **Kubernetes** — углублённое изучение оркестрации контейнеров
-* **Terraform** — освоение IaC для управления инфраструктурой
-* **Python для автоматизации** — работа с API и библиотеками
-* **Security Best Practices** — аудит и защита инфраструктуры
+## Что изучаю сейчас
 
-## 📈 Статистика GitHub
+- Kubernetes.
+- Terraform.
+- Python для автоматизации и интеграций.
+- Security best practices и CIS Benchmarks.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+## GitHub статистика
+
+<div align="center">
   <img src="https://github-readme-stats-alpha.vercel.app/api?username=noisy441&show_icons=true&theme=radical&hide_border=true" height="170" alt="Stats" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats-alpha.vercel.app/api/top-langs/?username=noisy441&layout=compact&theme=radical&hide_border=true" height="170" alt="Languages" />
-</a>
-
-## 📫 Как со мной связаться
-
-Буду рад обсудить проекты, обменяться опытом или просто пообщаться!
-
-<div align="center">
-  <a href="mailto:ваш@email.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://t.me/@Sviatog0r" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://linkedin.com/in/сергей-дудин-0b208b118" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
 </div>
 
----
+## Контакты
 
-<p align="center">
-  <sub>🔗 Последнее обновление: [дата] | 🤖 Создано с любовью к инфраструктуре</sub>
-</p>
+- GitHub: [@noisy441](https://github.com/noisy441)
+- Telegram: [Сергей](https://t.me/@Sviatog0r)
+- Email: s.dudin@trion34.ru
