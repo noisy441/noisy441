@@ -12,6 +12,9 @@
 
 <!-- Badges section -->
 <div align="center">
+   <a href="#">
+    <img src="https://img.shields.io/badge/Windows-0078D6?logo=Windows&logoColor=white&style=for-the-badge" alt="Windows">
+  </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge" alt="Linux">
   </a>
@@ -33,7 +36,7 @@
 
 ## 🛠️ О себе
 
-Я системный администратор с **[X] годами** опыта в построении и поддержке высоконадёжной инфраструктуры. Специализируюсь на:
+Я системный администратор с **10 годами** опыта в построении и поддержке высоконадёжной инфраструктуры. Специализируюсь на:
 
 - Автоматизации рутинных задач через скрипты и Ansible
 - Развёртывании и мониторинге серверных сред
@@ -47,7 +50,7 @@
 
 | Категория | Технологии и инструменты | Практическое применение |
 |---------|----------------------|----------------------|
-| **Операционные системы** | Linux (Ubuntu Server, CentOS/RHEL, Debian), Windows Server 2019/2022 | Администрирование серверов, управление пользователями и правами, работа с командной строкой (bash/PowerShell), обновление и патчинг систем |
+| **Операционные системы** | Linux (Ubuntu Server, CentOS/RHEL, Debian), Windows | Администрирование серверов, управление пользователями и правами, работа с командной строкой (bash/PowerShell), обновление и патчинг систем |
 | **Компьютерные сети** | TCP/IP, DNS (Bind), DHCP, VPN (OpenVPN, WireGuard), VLAN, маршрутизация (iptables, nftables) | Настройка сетевой связности, управление сетевыми сервисами, сегментация сети, обеспечение удалённого доступа |
 | **Серверное ПО** | Nginx, Apache, Postfix/Exim, Samba, NFS, FTP (vsftpd), SSH (ключи, настройка) | Развёртывание и настройка веб‑серверов, почтовых и файловых сервисов, организация общего доступа и защищённого подключения |
 | **Базы данных** | MySQL, PostgreSQL (базовая настройка и обслуживание), Redis (кэширование) | Установка, настройка, резервное копирование БД, оптимизация запросов, настройка репликации |
@@ -88,10 +91,10 @@
 ## 📈 Статистика GitHub
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ВАШ_USERNAME&show_icons=true&theme=radical&hide_border=true" height="170" alt="Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noisy441&show_icons=true&theme=radical&hide_border=true" height="170" alt="Stats" />
 </a>
 <a href="https://github.com/anishathalye/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_USERNAME&layout=compact&theme=radical&hide_border=true" height="170" alt="Languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noisy441&layout=compact&theme=radical&hide_border=true" height="170" alt="Languages" />
 </a>
 
 ## 📫 Как со мной связаться
@@ -102,14 +105,11 @@
   <a href="mailto:ваш@email.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://t.me/ваш_ник" target="_blank">
+  <a href="https://t.me/@Sviatog0r" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-229ED9?logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://linkedin.com/in/ваш-профиль" target="_blank">
+  <a href="https://linkedin.com/in/сергей-дудин-0b208b118" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://twitter.com/ваш_ник" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter">
   </a>
 </div>
 
