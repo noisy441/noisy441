@@ -91,11 +91,13 @@
 ## 📈 Статистика GitHub
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=noisy441&show_icons=true&theme=radical&hide_border=true" height="170" alt="Stats" />
+  <img align="center" src="https://starchart.cc/api?username=noisy441&show_icons=true&theme=radical&hide_border=true" height="170" alt="Stats" />
 </a>
-<a href="https://github.com/anishathalye/dotfiles">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noisy441&layout=compact&theme=radical&hide_border=true" height="170" alt="Languages" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://starchart.cc/api/top-langs/?username=noisy441&layout=compact&theme=radical&hide_border=true" height="170" alt="Languages" />
 </a>
+
+
 
 ## 📫 Как со мной связаться
 
